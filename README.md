@@ -1,7 +1,7 @@
 # Blog-Generator
 Blog Generator using OpenAI
 
-<img alt="gif" src="https://recurpost.com/wp-content/uploads/2020/05/01recurpost-gif-1.gif">
+<img width="300" alt="gif" src="https://recurpost.com/wp-content/uploads/2020/05/01recurpost-gif-1.gif">
 
 ## Tools Used 🔧
 1. Python
